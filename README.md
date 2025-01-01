@@ -28,7 +28,7 @@ I used proper react file structure & reusable components.Also created Separate h
     ```bash
     npm run dev
 
-## Live Link:
+## Live Link: https://blogs-alpha-gray.vercel.app/
 
 
 ## Screen Shot:
