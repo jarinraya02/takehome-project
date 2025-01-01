@@ -33,6 +33,8 @@ I used proper react file structure & reusable components.Also created Separate h
 
 ## Screen Shot:
 
+![Screenshot_606](https://github.com/user-attachments/assets/7613c27d-f326-497e-a4c6-0cc5262d80cd)
+![Screenshot_607](https://github.com/user-attachments/assets/2676c531-bafe-4ebe-854e-cf6ba100a74d)
 
 
 
